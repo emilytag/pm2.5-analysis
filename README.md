@@ -1,5 +1,5 @@
 # pm2.5-analysis
-you can view the notebook by running
+First, unzip the data files in `data/`, then view the notebook by running
 ```
 jupyter notebook
 ```
